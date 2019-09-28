@@ -1,4 +1,5 @@
 # General Ignores
+cmake-build-debug
 .idea
 *~
 .#*
